@@ -1,0 +1,5 @@
+// Generated table output by TableManager.
+
+#include "Table Definitions.txt"
+
+#include "WorldMap/Paralogue.event"
